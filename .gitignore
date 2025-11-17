@@ -1,8 +1,4 @@
-# Abaikan semua data
 dataset/
 
-# Abaikan semua model
 models/
 
-# Abaikan cache Python
-__pycache__/*.pkl
