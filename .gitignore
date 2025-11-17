@@ -5,4 +5,4 @@ dataset/
 models/
 
 # Abaikan cache Python
-__pycache__/
+__pycache__/*.pkl
