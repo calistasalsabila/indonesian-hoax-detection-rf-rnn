@@ -4,8 +4,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-orange?logo=tensorflow)
-![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-yellow?logo=scikit-learn)
-![Status](https://img.shields.io/badge/Status-Research_Completed-green)
+![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-green?logo=scikit-learn)
+
 
 ## Project Overview
 
